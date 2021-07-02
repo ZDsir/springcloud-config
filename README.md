@@ -1,0 +1,2 @@
+# springcloud-config
+这是Config分布式配置中心用于统一存放配置文件的仓库
